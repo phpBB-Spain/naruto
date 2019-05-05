@@ -4,10 +4,10 @@
 	Based on style:		prosilver (the default phpBB 3.2.x style)
 	Original author:	Tom Beddard ( http://www.subblue.com/ )
 	Modified by:		CoSa NoStrA DeSiGn ( http://www.cosa-nostra-design.com/ )
-	Ported by:			phpBB Spain ( http://www.phpbb-es.com )	
+	Ported by:			phpBB Spain ( https://www.phpbb-es.com )	
     --------------------------------------------------------------
 */
 
-@import url("common.css");
-@import url("colours.css");
-@import url("naruto_adds.css");
+@import url("common.css?v=3.2");
+@import url("colours.css?v=3.2");
+@import url("naruto_adds.css?v=3.2");
