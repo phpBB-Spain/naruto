@@ -24,9 +24,6 @@ Requiere:
 ## Corrección de errores
 Para cualquier cambio a realizar, simplemente editar para realizar el cambio y "Pull Request".
 
-## Algunas capturas
-![phpBB Spain](http://www.phpbb-es.com/archivos/naruto_shippuuden.png) 
-
 ## [Demo Online - Naruto Shippuuden](https://www.phpbb-es.com/styles/demo/#naruto_shippuuden)
 
 ## License
